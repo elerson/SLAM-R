@@ -1,0 +1,9 @@
+Parametros:
+
+n_particles ## numero de particulas para o map
+n_perception_particles ## numero de particulas para motion/perception model
+
+alphas = c(3,  10, 2,  8) #2,10,2,10 ## motion model variables
+
+Para usar os dados reais basta mudat o parametro "simulation" para FALSE
+
